@@ -37,7 +37,7 @@ I'm an innovative problem-solver who loves coding, embedded systems, and Linux! 
 
 ### 🌍 IoT and Embedded Systems
 - **Aqua Grow**
-- **Park Smart**
+- **Micro-Irrigation System **
 
 ---
 
