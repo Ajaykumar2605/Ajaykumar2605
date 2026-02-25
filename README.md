@@ -1,81 +1,127 @@
-# Hey there! 👋 Welcome to my GitHub!
+# 👋 Hello & Welcome to My GitHub!
 
-🎯 **Electronics & Communication Engineer | Linux System Administrator | DevOps & Tech Enthusiast**
+## 🚀 Cloud & Infrastructure Engineer | RHCE | RHCSA | AWS Certified | Cisco Certified
 
-I'm an innovative problem-solver passionate about Linux, cloud technologies, automation, and DevOps practices! I enjoy turning ideas into reality, one line of code at a time. 🚀
+I am a Cloud & Infrastructure Engineer with strong hands-on expertise in Linux system administration, cloud platforms, automation, and DevOps practices. I specialize in designing scalable, secure, and highly available infrastructure environments while improving operational efficiency through automation.
+
+With multiple certifications in AWS, Red Hat, and Cisco technologies, I bring a strong foundation in enterprise Linux systems, networking, and cloud architecture.
 
 ---
 
 ## 🎓 Education
-- 🎓 **Bachelor's in Electronics & Communication Engineering**
+- 🎓 **Bachelor’s in Electronics & Communication Engineering**
 
 ---
 
 ## 🏅 Certifications
-- **AWS Certified Solutions Architect – Associate** 
-- **Red Hat Certified Engineer (RHCE)** 
-- **Red Hat Certified System Administrator (RHCSA)** 
-- **Red Hat Enterprise Linux Automation with Ansible (RH294) – Ver. 9.0** 
-- **RHCSA Rapid Track Course (RH199) – Ver. 9.3** 
-- **Python Essentials 1 & 2** 
-- **Computer Hardware Basics** 
-- **Introduction to Cybersecurity** 
-- **Introduction to IoT**
-- **Networking Basics & Networking Devices and Initial Configuration** 
-- **Network Technician Career Path** 
+
+- 🟠 AWS Certified Solutions Architect – Associate  
+- 🔴 Red Hat Certified Engineer (RHCE)  
+- 🔴 Red Hat Certified System Administrator (RHCSA)  
+- 🔴 Red Hat Enterprise Linux Automation with Ansible (RH294 – v9)  
+- 🔴 RHCSA Rapid Track (RH199 – v9.3)  
+- 🐍 Python Essentials 1 & 2  
+- 🌐 Networking Basics & Device Configuration  
+- 🔐 Introduction to Cybersecurity  
+- 🌍 Introduction to IoT  
+- 🖥️ Computer Hardware Basics  
+- 📡 Network Technician Career Path  
 
 ---
 
-## 🚀 Tech Arsenal
-
-### 💻 Programming & Development
-- `Python` 🐍 | `C` 🔵 | `C++` 🛠️ | `Bash` 💻  
-- `HTML` 🎨 | `CSS` 🎭 | `JavaScript` ⚡ | `SQL` | `JSON/YAML`  
+## 💡 Core Technical Expertise
 
 ### 🐧 Linux & System Administration
-- `RHEL, CentOS, Fedora, Windows`  
-- `RHCSA, RHCE` ✅ | `Shell Scripting` | `System & Service Monitoring`  
-- `User & Group Management`, `File System & Permissions`, `Boot Repair & Troubleshooting`, `Service & Process Management`, `Storage & LVM Configuration`, `Virtual Memory & Swap Management`, `Backup & Restore`, `Performance Tuning`, `Log Management`, `Network Configuration`, `SELinux Management`  
+- RHEL, CentOS, Fedora, Ubuntu  
+- User & Group Management  
+- File Systems & Permissions (ACL, SUID/SGID, Sticky Bit)  
+- LVM & Storage Management  
+- Boot Troubleshooting & System Recovery  
+- Service & Process Management (systemd)  
+- Virtual Memory & Swap Optimization  
+- Backup & Restore Strategies  
+- SELinux & Firewall Configuration  
+- System Performance Monitoring & Log Analysis  
 
-### ☁️ Cloud & DevOps
-- `AWS (EC2, S3, VPC, IAM, CloudWatch, CloudTrail, Route 53, Lambda, RDS, Load Balancing, Auto Scaling)`  
-- `KVM, VMware, Cloudflare Tunnel`  
-- `Docker`, `Ansible`, `Terraform`, `CI/CD Pipelines`, `Jenkins`, `GitOps Concepts`  
+---
+
+### ☁️ Cloud & Infrastructure
+- AWS: EC2, S3, VPC, IAM, Route 53, ELB, Auto Scaling, RDS, Lambda, CloudWatch, CloudTrail  
+- High Availability Architecture  
+- Reverse Proxy & Load Balancing  
+- Cloudflare Tunnel & DNS  
+- KVM & VMware Virtualization  
+
+---
+
+### ⚙️ Automation & DevOps
+- Ansible (Playbooks & Roles)  
+- Shell Scripting & Cron Automation  
+- Docker & Containerization  
+- Terraform (Infrastructure as Code)  
+- Jenkins & CI/CD Pipelines  
+- Git & GitOps Concepts  
+- Monitoring with Prometheus & Grafana  
+
+---
+
+### 💻 Programming & Development
+- Python  
+- Bash  
+- C / C++  
+- HTML, CSS, JavaScript  
+- SQL  
+- JSON / YAML  
+
+---
 
 ### 🔌 Embedded Systems & IoT
-- `ESP8266` ⚙️ | `Microcontrollers` | `IoT Applications`  
-
-### 📡 Satellite Communication & RF
-- `Microwave Sensors` | `Antenna Design` | `Optical Fiber Systems`  
-
-### 🛠️ Tools & Utilities
-- `Git`, `Visual Studio Code`, `WinSCP`, `PuTTY`, `XAMPP`  
+- ESP8266  
+- Microcontrollers  
+- IoT-based Automation Systems  
 
 ---
 
-## 🏗️ Projects
+## 🏗️ Featured Projects
 
-### 🖥️ Software Development
-- **Student Metrics** – Web-based student performance management system  
-- **Apex-Bank** – Banking application with CRUD operations and authentication  
+### 🔹 High Availability Production Infrastructure
+- Deployed clustered application servers with dedicated database server  
+- Implemented Nginx reverse proxy load balancing  
+- Integrated Cloudflare DNS for secure access  
+- Automated data synchronization using rsync + cron  
+- Configured Prometheus & Grafana monitoring  
+- Implemented Telegram-based resource alerting system  
 
-### 🌍 IoT & Embedded Systems
-- **Aqua Grow** – Automated irrigation system using IoT sensors  
-- **Micro-Irrigation System** – Precision water management for agriculture  
+### 🔹 Centralized Infrastructure Automation
+- Built Ansible control node for multi-server management  
+- Automated patching, service configuration & deployments  
+- Reduced manual administrative effort through scripting  
+
+### 🔹 Software & IoT Projects
+- **Student Metrics** – Web-based academic performance system  
+- **Apex-Bank** – Banking application with authentication & CRUD  
+- **Aqua Grow** – IoT-based smart irrigation system  
+- **Micro-Irrigation System** – Precision agricultural automation  
 
 ---
 
-## 🎮 Fun Facts
-- 🚀 I love tinkering with hardware and Linux systems  
-- 🕹️ Tech & gaming enthusiast  
-- 🎨 Occasionally do graphic design  
+## 🎯 Professional Focus
+
+- Scalable & Highly Available Infrastructure  
+- Automation-Driven Operations  
+- Monitoring & Observability  
+- Cloud-Native Architecture  
+- Continuous Learning & Innovation  
 
 ---
 
-## 🌍 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajaykumar-m26/)  
-[![Credly](https://img.shields.io/badge/Certifications-Credly-4BCFFA?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/ajaykumar26)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Ajaykumar2605)  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@JustOneByte)  
+## 🌍 Let's Connect
 
-🚀 "Stay curious, stay creative, and keep learning!" 😊
+- 🔗 LinkedIn: https://www.linkedin.com/in/ajaykumar-m26/  
+- 🏅 Certifications (Credly): https://www.credly.com/users/ajaykumar26  
+- 💻 GitHub: https://github.com/Ajaykumar2605  
+- 📺 YouTube: https://www.youtube.com/@JustOneByte  
+
+---
+
+> 💬 "Building reliable systems. Automating everything possible. Always learning."
