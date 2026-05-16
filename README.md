@@ -120,7 +120,7 @@ With multiple certifications in AWS, Red Hat, and Cisco technologies, I bring a 
 - 🔗 LinkedIn: https://www.linkedin.com/in/ajaykumar-m26/  
 - 🏅 Certifications (Credly): https://www.credly.com/users/ajaykumar26  
 - 💻 GitHub: https://github.com/Ajaykumar2605  
-- 📺 YouTube: https://www.youtube.com/@JustOneByte  
+- 📺 YouTube: https://www.youtube.com/@JustOneByte26 
 
 ---
 
